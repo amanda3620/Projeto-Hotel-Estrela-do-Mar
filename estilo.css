@@ -1,0 +1,247 @@
+/* DOCUMENTO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /*border: 1px solid black;*/
+    
+
+}
+body {    
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+#topo {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#00B5B2, #0075AA);
+}
+#topo li {
+    display: inline;
+}
+
+#topo li a{
+    font-size: 30px;
+    color: #fff;
+    padding: 35px 100px 30px 100px;
+    font-weight: 800;
+    transition: 0.4s;
+}
+#logo {
+    margin-bottom: 10px;
+}
+#cama {
+    margin-right: 970px;
+    margin-top: 50px;
+}
+#cama2 {
+    margin-left: -10px;
+    margin-top: -318px;
+}
+#cama3 {
+    margin-left: 970px;
+    margin-top: -318px;
+}
+#cama4 {
+    margin-right: 970px;
+    margin-top: 30px;
+}
+#cama5 {
+    margin-right: 50px;
+    margin-top: -270px;
+}
+#cama6 {
+    margin-left: 980px;
+    margin-top: -260px;
+}
+
+}
+#logo2 {
+    width: 400px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: -120px;
+}
+#logo3 {
+    width: 569px;
+    height: 369px;
+    border: solid black 10px;
+    border-radius: 15px;
+    margin-left: 850px;
+    margin-top: -350px;
+
+}
+#gato {
+    width: 560px;
+    height: 369px;
+    margin-left: 100px;
+    margin-top: -300px;
+
+}
+#imagem {
+    width: 560px;
+    height: 369px;
+    margin-left: 800px;
+    margin-top: -290px;
+    
+}
+#imagem2 {
+    margin-top: -140px;
+    margin-bottom: 40px;
+}
+#mapa{
+    width: 519px;
+    height: 469px;
+    margin-left: 30px;
+    margin-top: -380px;
+    border: solid white 10px;
+    border-radius: 15px;
+    
+}
+#foto {
+    width: 605px;
+    height: 405px;
+    margin-right: 700px;
+    margin-top: 80px;
+    border: solid yellow; 3px;
+    
+}
+#Whatsapp {
+    margin-left: 200px;
+    margin-top: -400px;
+    margin-bottom: 500px;
+}
+#instagram{
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-bottom: 500px;: 
+}
+#e-mail{
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-bottom: 800px;:  
+}
+#frase {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    font-size: 45px;
+    color: #0075AA;
+}
+
+.coluna1 {
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-right: 60px;
+    font-size: 30px;
+   
+    
+}
+#secao1 {
+    height: 950px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+   
+   
+   
+}
+#secao2 {
+    height: 700px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+   background-color: #00B5B2;
+    
+}
+#secao3 {
+    height: 800px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+  
+}
+.coluna2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+    color: white;   
+
+}
+
+.coluna3 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+    color: #0075AA; 
+    
+}
+#caixa3 {
+    width: 800px;
+    margin-top: 50px;
+    margin-left: -9px;
+    font-size: 30px;
+    color:  #FFA600;
+}
+.coluna4 {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 600px;
+    font-size: 35px;
+    
+}
+#caixa4 {
+    margin-top: 30px;
+    margin-left: 580px;
+    font-size: 35px;
+    color: white;
+}
+#contato{
+    margin-left: 650px;
+    margin-top: -580px;
+    color: #0075AA;
+}
+#arroba{
+    margin-left: 720px;
+    margin-top: -580px;
+    color: #0075AA;
+}
+#frase2{
+   margin-left: 910px;
+    margin-top: -880px;
+    margin-bottom: 126px;
+    color: #0075AA;
+}
+#palavra{
+    margin-left: 650px ;
+    margin-top: 80px;
+    margin-bottom: -70px;
+    font-size: 26px;
+}
+
+#rodape {
+    height: 200px;
+    width: 1526px;
+    margin-left: -39px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #a4a4a4;
+    padding: 0 100px;
+    font-weight: 600;
+    background-color: #0075AA;
+}
+
+#rodape figure {
+    width: 90px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
